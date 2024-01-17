@@ -94,7 +94,7 @@ p {
 }
 
 #hero {
-  background-image: url(/Users/enzorodriguez/Documents/GitHub/Duendesmagicosbygio/assets/imagenes_banners/bannerpng.png);
+  background-image: url(assets/imagenes_banners/bannerpng.png);
   height: 90vh;
   width: 100%;
   background-size: cover;
