@@ -61,6 +61,7 @@ p {
 
 #header a img {
   height: 60px;
+  padding: 0;
 }
 
 #navbar {
@@ -311,3 +312,32 @@ p {
   z-index: 2;
 }
 /*fin del boton de corazonesss */
+
+#section-p1 {
+  padding-top: 20px;
+  background: whitesmoke;
+}
+.col {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  justify-items: center;
+}
+#section-p1 .col img {
+  height: 130px;
+}
+
+.follow {
+  display: flex;
+  display: table-column;
+}
+
+.follow i {
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.herob {
+  display: flex;
+  gap: 15px;
+}
