@@ -70,6 +70,10 @@ p {
   justify-content: center;
 }
 
+#close {
+  display: none;
+}
+
 #navbar li {
   list-style: none;
   padding: 0 20px;
@@ -97,6 +101,11 @@ p {
   position: absolute;
   bottom: -4px;
   left: 20px;
+}
+
+#mobile {
+  display: none;
+  align-items: center;
 }
 
 #hero {
