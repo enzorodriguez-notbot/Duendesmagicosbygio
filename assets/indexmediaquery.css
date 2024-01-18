@@ -116,4 +116,13 @@
     flex-wrap: wrap;
     flex-direction: row;
   }
+  #page-header h2 {
+    font-size: 40px;
+  }
+  #product1 .pro-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    flex-wrap: wrap;
+  }
 }
