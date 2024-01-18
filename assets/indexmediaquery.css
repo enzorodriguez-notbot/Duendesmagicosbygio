@@ -158,3 +158,16 @@
     grid-template-columns: 100%;
   }
 }
+
+@media (max-width: 600px) {
+  #contactos .contactos-cont .whatsapp a img,
+  #contactos .contactos-cont .instagram a img {
+    width: 13.5rem;
+    height: 13.938000000000002rem;
+  }
+  #contactos .contactos-cont .instagram h4,
+  #contactos .contactos-cont .whatsapp h4 {
+    text-align: center;
+    font-size: 15px;
+  }
+}
