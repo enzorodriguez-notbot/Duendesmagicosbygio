@@ -552,3 +552,8 @@ input::placeholder {
   box-shadow: inset 230px 0 0 0 var(--azulnebula);
   color: white;
 }
+
+.follow a {
+  text-decoration: none;
+  color: black;
+}
