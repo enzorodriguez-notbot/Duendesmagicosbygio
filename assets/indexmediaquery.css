@@ -151,3 +151,10 @@
     align-items: center;
   }
 }
+
+@media (max-width: 1200px) {
+  #contactos .contactos-cont {
+    display: grid;
+    grid-template-columns: 100%;
+  }
+}

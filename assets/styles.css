@@ -412,3 +412,31 @@ p {
   padding-top: 20px;
   flex-wrap: wrap;
 }
+
+#hero .herob a {
+  text-decoration: none;
+}
+
+#contactos {
+  padding: 5%;
+}
+
+#contactos .contactos-cont {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+#contactos .contactos-cont .whatsapp a img {
+  width: 36.5rem;
+  height: 36.938rem;
+}
+
+#contactos .contactos-cont .instagram,
+#contactos .contactos-cont .whatsapp {
+  justify-self: center;
+}
+
+#contactos .contactos-cont .instagram h4,
+#contactos .contactos-cont .whatsapp h4 {
+  text-align: center;
+}
